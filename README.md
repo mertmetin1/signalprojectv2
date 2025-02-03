@@ -127,7 +127,6 @@ Visualization is key to understanding model performance. The `visualization.py` 
 - ![TSLA_rf_test_confusion_matrix](https://github.com/user-attachments/assets/df8e8210-ea95-421a-8096-754291e2ea52)
 
 ![TSLA_prophet_forecast_full_pipeline](https://github.com/user-attachments/assets/3892f92e-d236-4444-abb2-c42cf44261a8)
-![TSLA_rf_bollinger_bands_with_preds_from_pipeline](https://github.com/user-attachments/assets/ae92ca8c-9dcd-49dc-9882-1292bf4fb289)
 ![TSLA_rf_time_series_with_preds_from_pipeline](https://github.com/user-attachments/assets/d6f0db46-38cc-4099-815a-ea0322bcd8dd)
 ![TSLA_xgb_test_vs_pred_pipeline](https://github.com/user-attachments/assets/f08a710f-daad-443a-9683-a9396c186ac9)
 
